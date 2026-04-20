@@ -45,7 +45,7 @@ const categories = [
         name: 'Miniature Table',
         price: 12,
         image: 'https://hushabye83.wordpress.com/wp-content/uploads/2025/07/img_0431.jpeg?w=766',
-        description: 'Adorable miniature table perfect for display or as a unique desk accessory',
+        description: 'Adorable miniature table perfect for display or as a unique desk accessory for placing small items',
         features: ['Intricate design details', 'Stable construction', 'Decorative piece', 'Conversation starter'],
         badge: 'New',
       },
